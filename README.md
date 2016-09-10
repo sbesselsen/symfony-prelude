@@ -6,6 +6,12 @@ A simple loader for Symfony DI containers.
 
 If you want to use Symfony components without using the full framework, this tool gives you a simple and consistent way to load a Dependency Injection container from YAML files without boilerplate code.
 
+## Getting started
+
+Load it from composer:
+
+`composer require sbesselsen/symfony-prelude`
+
 ## Usage
 
 Create a central file where you get the container for the root directory of your project:
