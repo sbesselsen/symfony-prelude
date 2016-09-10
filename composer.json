@@ -14,5 +14,9 @@
             "SymfonyPrelude\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "symfony/yaml": "^3.1",
+        "symfony/dependency-injection": "^3.1",
+        "symfony/config": "^3.1"
+    }
 }
